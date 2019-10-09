@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15674" started-at="2019-10-04T23:11:51 EET" finished-at="2019-10-04T23:12:07 EET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15674" started-at="2019-10-04T23:11:51 EET" finished-at="2019-10-04T23:12:07 EET">
+      <class name="task8.Task8_DragAToB">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:task8.Task8_DragAToB@887af79]" name="beforeClass" is-config="true" duration-ms="5367" started-at="2019-10-04T23:11:51 EET" finished-at="2019-10-04T23:11:56 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="dragAToBAndAssertThatAIsInTheCorrectLocation()[pri:0, instance:task8.Task8_DragAToB@887af79]" name="dragAToBAndAssertThatAIsInTheCorrectLocation" duration-ms="10256" started-at="2019-10-04T23:11:56 EET" finished-at="2019-10-04T23:12:07 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragAToBAndAssertThatAIsInTheCorrectLocation -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:task8.Task8_DragAToB@887af79]" name="afterClass" is-config="true" duration-ms="1" started-at="2019-10-04T23:12:07 EET" finished-at="2019-10-04T23:12:07 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- task8.Task8_DragAToB -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
